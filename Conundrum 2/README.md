@@ -1,5 +1,5 @@
 # Conundrum 2: Holiday Hoodies
-### Problem Statement
+## Problem Statement
 The second Conundrum is here!
 
 A company has separate datasets for the 2016 and 2015 numbers and needs to compare a subset of 2016’s numbers with the numbers from 2015.
@@ -8,13 +8,13 @@ Given the two datasets "orders_2015" and "orders_2016", create a single visualiz
 
 Good luck - I hear there are stacks of clever ways to go about it!
 
-### Solution Details by Zone
+## Solution Details: by Zone in Project
 #### Import Data
 1. Imported CSV files and unioned together (Years 2015 with 2016)
 
 #### Tableau
 1. Inserting "Prepare" recipe in case I want to clean the data prior to exporting to Tableau
-2. Inserted "Export to Folder" recipe to export using the ["Tableau Hyper Format" plugin] (https://www.dataiku.com/product/plugins/tableau-hyper-export)
+2. Inserted "Export to Folder" recipe to export using the ["Tableau Hyper Format" plugin](https://www.dataiku.com/product/plugins/tableau-hyper-export)
 3. Selected "Other exports"
 4. Selected "Upload to Tableau Server (Hyper)" under "Exporters"
 5. Completed connection details
