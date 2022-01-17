@@ -10,6 +10,9 @@ Given the two datasets "orders_2015" and "orders_2016", create a single visualiz
 
 Good luck - I hear there are stacks of clever ways to go about it!
 
+## Plugins to Install
+1. [Tableau Hyper Format](https://www.dataiku.com/product/plugins/tableau-hyper-export): Allow syou to export your flow to a Tableau extract
+
 ## Solution Details: by Zone in Project
 #### Import Data
 1. Imported CSV files and unioned together (Years 2015 with 2016)
