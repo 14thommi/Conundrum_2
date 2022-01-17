@@ -1,5 +1,5 @@
 # Conundrum 2: Holiday Hoodies
-Check Out the [Tableau Dashboard](
+Check Out the [Tableau Dashboard](https://public.tableau.com/app/profile/michael.r.thompson/viz/Conundrum2Dataiku/Conundrum2?publish=yes)
 Ask Questions in the [Dataiku Forums](https://community.dataiku.com/t5/Community-Conundrums/Conundrum-2-Holiday-Hoodies/m-p/5634/thread-id/7/highlight/false)
 ## Problem Statement
 The second Conundrum is here!
